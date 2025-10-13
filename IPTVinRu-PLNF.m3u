@@ -2,9 +2,6 @@
 #EXTINF:0,E
 #EXTGRP:Развлекательные
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:0,E
-#EXTGRP:Развлекательные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/736/index.m3u8
 #EXTINF:0,Gameplay
 #EXTGRP:Развлекательные
 https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
@@ -35,18 +32,9 @@ https://tvoetv.space/tvoetv_humor/mpegts
 #EXTINF:0,ТВОЕ ТВ HD - ЮМОР
 #EXTGRP:Развлекательные
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:0,Анекдот ТВ
-#EXTGRP:Развлекательные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/5034/index.m3u8
 #EXTINF:0,Ералаш HD
 #EXTGRP:Развлекательные
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:0,VF Уральские пельмени
-#EXTGRP:Развлекательные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/18198/index.m3u8
-#EXTINF:0,VF Юмор 18+
-#EXTGRP:Развлекательные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/16137/index.m3u8
 #EXTINF:0,Шоу Бенни Хилла
 #EXTGRP:Развлекательные
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
@@ -68,8 +56,6 @@ https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
 #EXTINF:0,Приколы 2
 #EXTGRP:Развлекательные
 https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:0,Retrovision
 #EXTGRP:Retrovision
 https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
@@ -217,7 +203,6 @@ https://fl1001.bozztv.com/ushba64/index.m3u8
 #EXTINF:0,Кинозалы 37
 #EXTGRP:Кинозалы
 https://fl1001.bozztv.com/ushba65/index.m3u8
-
 #EXTINF:0,1HD
 #EXTGRP:Музыкальные
 http://91.247.68.229:8000/play/eee/index.m3u8
@@ -245,21 +230,9 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0,70-80 TV
 #EXTGRP:Музыкальные
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:0,Русская попса 80х-90х
-#EXTGRP:Музыкальные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/14155/index.m3u8
-#EXTINF:0,Russian Dance Hits of 90s
-#EXTGRP:Музыкальные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/14156/index.m3u8
 #EXTINF:0,Kiss Kiss TV HD
 #EXTGRP:Музыкальные
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
-#EXTINF:0,Z! Musiс HD
-#EXTGRP:Музыкальные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/14138/index.m3u8
-#EXTINF:0,Z! Rock HD
-#EXTGRP:Музыкальные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/14139/index.m3u8
 #EXTINF:0,Bridge
 #EXTGRP:Музыкальные
 http://195.26.83.96:7007/play/a00m/index.m3u8
@@ -314,9 +287,6 @@ http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:0,NOW ROCK 🇬🇧
 #EXTGRP:Музыкальные
 https://bit.ly/3B1M54o?profile=inspirationFreetv.m3u8
-#EXTINF:0,Музыка Кино International
-#EXTGRP:Музыкальные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/18082/index.m3u8
 #EXTINF:0,Retro Music
 #EXTGRP:Музыкальные
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -329,9 +299,6 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0,Now 90's
 #EXTGRP:Музыкальные
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0,Радио Шансон тв HD
-#EXTGRP:Музыкальные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/16036/index.m3u8
 #EXTINF:0,Шансон-ТВ
 #EXTGRP:Музыкальные
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
@@ -353,18 +320,12 @@ http://178.212.71.253:8000/play/93/index.m3u8
 #EXTINF:0,Рыболов
 #EXTGRP:Хобби и увлечения
 https://stream-msk-12.ott.tricolor.tv:443/dtv/id665_MSKSG-PVR-1--Rybalov/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
-#EXTINF:0,VF Рыбалка
-#EXTGRP:Хобби и увлечения
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/16138/index.m3u8
 #EXTINF:0,Мужской
 #EXTGRP:Хобби и увлечения
 http://195.26.83.96:7007/play/11/index.m3u8
 #EXTINF:0,Оружие
 #EXTGRP:Хобби и увлечения
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Oruzhie.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0ODIzMjQ5NCwiaHdpZCI6ImY0ZDIwNGYwYWFkYWZiMzIyMjQyMTQ2YWE1N2EwYTg1ZjRlNjU4NzE4OTM4YjljNjg3OTFjZTE2MjE0MWRlZWQiLCJsYXN0X3JlcV9kYXRlIjoxNzQ3NjI3Njk0LCJzZXNzaW9uX2lkIjoiNDIwZWZiMTg2MmE3Y2QzOThlMTMwNTc5NGQ5YjAwNjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.IGqSAb4RiYovejmRaEUWxAfwF1LLiczaMvuMm58aQSc
-#EXTINF:0,Оружие
-#EXTGRP:Хобби и увлечения
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/2087/index.m3u8
 #EXTINF:0,Кулинар ТВ
 #EXTGRP:Хобби и увлечения
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
@@ -389,9 +350,6 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:0,TV-Криминал
 #EXTGRP:Познавательные
 https://rpn3.bozztv.com/dvrfl07/ushba28/tracks-v1a1/mono.m3u8
-#EXTINF:0,Точка отрыва
-#EXTGRP:Познавательные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/159/index.m3u8
 #EXTINF:0,Документалка 1
 #EXTGRP:Познавательные
 https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
@@ -470,9 +428,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP:Федеральные
 http://178.212.71.253:8000/play/11/index.m3u8
-#EXTINF:0,Рен ТВ
-#EXTGRP:Федеральные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/128/index.m3u8
 #EXTINF:0,Звезда HD
 #EXTGRP:Федеральные
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
@@ -485,33 +440,15 @@ http://178.212.71.253:8000/play/17/index.m3u8
 #EXTINF:0,Звезда
 #EXTGRP:Федеральные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:0,Звезда
-#EXTGRP:Федеральные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/544/index.m3u8
-#EXTINF:0,Мир
-#EXTGRP:Федеральные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/214/index.m3u8
 #EXTINF:0,Пятый канал
 #EXTGRP:Федеральные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:0,5 канал Россия
 #EXTGRP:Федеральные
 https://live-stream-09.ott.tricolor.tv/live/live/5_kanal/hls_enc/5_kanal-avc1_2000000=10002_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0ODIzMjQ5NCwiaHdpZCI6ImY0ZDIwNGYwYWFkYWZiMzIyMjQyMTQ2YWE1N2EwYTg1ZjRlNjU4NzE4OTM4YjljNjg3OTFjZTE2MjE0MWRlZWQiLCJsYXN0X3JlcV9kYXRlIjoxNzQ3NjI3Njk0LCJzZXNzaW9uX2lkIjoiNDIwZWZiMTg2MmE3Y2QzOThlMTMwNTc5NGQ5YjAwNjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.IGqSAb4RiYovejmRaEUWxAfwF1LLiczaMvuMm58aQSc
-#EXTINF:0,ТВЦ
-#EXTGRP:Федеральные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/520/index.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP:Федеральные
 http://178.212.71.253:8000/play/19/index.m3u8
-#EXTINF:0,СТС
-#EXTGRP:Федеральные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/506/index.m3u8
-#EXTINF:0,ОТР
-#EXTGRP:Федеральные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/705/index.m3u8
-#EXTINF:0,ТВ3
-#EXTGRP:Федеральные
-http://s1putrso.otttv.pw/iptv/2EA55L4SUE4RH4/508/index.m3u8
 #EXTINF:0,Легендарный 24 HD
 #EXTGRP:Общественные
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
